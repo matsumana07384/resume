@@ -69,7 +69,7 @@ HTML5.2で一度廃止[^1]されたものの、Living Standard[^2]にて復活�
 **表示**
 | iOS | Andoroid  |
 |---|---|
-|  <img src="https://github.com/matsumana07384/memorandum/blob/master/output/2020-12-15_Qitta_AdventCalendar/img/iOS_text.png?raw=true" width="375" height="auto">  |   <img src="https://github.com/matsumana07384/memorandum/blob/master/output/2020-12-15_Qitta_AdventCalendar/img/Android_text.jpg?raw=true" width="375" height="auto">  |
+|  <img src="https://github.com/matsumana07384/resume/blob/master/output/2020-12-15_Qitta_AdventCalendar/img/iOS_text.png?raw=true" width="375" height="auto">  |   <img src="https://github.com/matsumana07384/resume/blob/master/output/2020-12-15_Qitta_AdventCalendar/img/Android_text.jpg?raw=true" width="375" height="auto">  |
 
 
 ### tel
@@ -86,7 +86,7 @@ HTML5.2で一度廃止[^1]されたものの、Living Standard[^2]にて復活�
 
 | iOS | Andoroid  |
 |---|---|
-|  <img src="https://github.com/matsumana07384/memorandum/blob/master/output/2020-12-15_Qitta_AdventCalendar/img/iOS_tel.png?raw=true" width="375" height="auto">  |   <img src="https://github.com/matsumana07384/memorandum/blob/master/output/2020-12-15_Qitta_AdventCalendar/img/Android_tel.jpg?raw=true" width="375" height="auto">  |
+|  <img src="https://github.com/matsumana07384/resume/blob/master/output/2020-12-15_Qitta_AdventCalendar/img/iOS_tel.png?raw=true" width="375" height="auto">  |   <img src="https://github.com/matsumana07384/resume/blob/master/output/2020-12-15_Qitta_AdventCalendar/img/Android_tel.jpg?raw=true" width="375" height="auto">  |
 
 
 ### url
@@ -103,7 +103,7 @@ HTML5.2で一度廃止[^1]されたものの、Living Standard[^2]にて復活�
 
 | iOS | Andoroid  |
 |---|---|
-|  <img src="https://github.com/matsumana07384/memorandum/blob/master/output/2020-12-15_Qitta_AdventCalendar/img/iOS_url.png?raw=true" width="375" height="auto">  |   <img src="https://github.com/matsumana07384/memorandum/blob/master/output/2020-12-15_Qitta_AdventCalendar/img/Android_url.jpg?raw=true" width="375" height="auto">  |
+|  <img src="https://github.com/matsumana07384/resume/blob/master/output/2020-12-15_Qitta_AdventCalendar/img/iOS_url.png?raw=true" width="375" height="auto">  |   <img src="https://github.com/matsumana07384/resume/blob/master/output/2020-12-15_Qitta_AdventCalendar/img/Android_url.jpg?raw=true" width="375" height="auto">  |
 
 ※Andoridの方の入力言語を日本語（あ）から英語（a）に変更すると、「/」が表示されます
 
@@ -122,7 +122,7 @@ HTML5.2で一度廃止[^1]されたものの、Living Standard[^2]にて復活�
 
 | iOS | Andoroid  |
 |---|---|
-|  <img src="https://github.com/matsumana07384/memorandum/blob/master/output/2020-12-15_Qitta_AdventCalendar/img/iOS_email.png?raw=true" width="375" height="auto">  |   <img src="https://github.com/matsumana07384/memorandum/blob/master/output/2020-12-15_Qitta_AdventCalendar/img/Android_email.jpg?raw=true" width="375" height="auto">  |
+|  <img src="https://github.com/matsumana07384/resume/blob/master/output/2020-12-15_Qitta_AdventCalendar/img/iOS_email.png?raw=true" width="375" height="auto">  |   <img src="https://github.com/matsumana07384/resume/blob/master/output/2020-12-15_Qitta_AdventCalendar/img/Android_email.jpg?raw=true" width="375" height="auto">  |
 
 ※iOSの方の入力言語を日本語から英語（ABC）に変更すると「@」が表示されます
 
@@ -139,7 +139,7 @@ HTML5.2で一度廃止[^1]されたものの、Living Standard[^2]にて復活�
 
 | iOS | Andoroid  |
 |---|---|
-|  <img src="https://github.com/matsumana07384/memorandum/blob/master/output/2020-12-15_Qitta_AdventCalendar/img/iOS_numeric.png?raw=true" width="375" height="auto">  |   <img src="https://github.com/matsumana07384/memorandum/blob/master/output/2020-12-15_Qitta_AdventCalendar/img/Android_numeric.jpg?raw=true" width="375" height="auto">  |
+|  <img src="https://github.com/matsumana07384/resume/blob/master/output/2020-12-15_Qitta_AdventCalendar/img/iOS_numeric.png?raw=true" width="375" height="auto">  |   <img src="https://github.com/matsumana07384/resume/blob/master/output/2020-12-15_Qitta_AdventCalendar/img/Android_numeric.jpg?raw=true" width="375" height="auto">  |
 
 
 ### decimal
@@ -155,7 +155,7 @@ HTML5.2で一度廃止[^1]されたものの、Living Standard[^2]にて復活�
 
 | iOS | Andoroid  |
 |---|---|
-|  <img src="https://github.com/matsumana07384/memorandum/blob/master/output/2020-12-15_Qitta_AdventCalendar/img/iOS_numeric.png?raw=true" width="375" height="auto">  |   <img src="https://github.com/matsumana07384/memorandum/blob/master/output/2020-12-15_Qitta_AdventCalendar/img/Android_numeric.jpg?raw=true" width="375" height="auto">  |
+|  <img src="https://github.com/matsumana07384/resume/blob/master/output/2020-12-15_Qitta_AdventCalendar/img/iOS_numeric.png?raw=true" width="375" height="auto">  |   <img src="https://github.com/matsumana07384/resume/blob/master/output/2020-12-15_Qitta_AdventCalendar/img/Android_numeric.jpg?raw=true" width="375" height="auto">  |
 
 
 ### search
@@ -172,7 +172,7 @@ HTML5.2で一度廃止[^1]されたものの、Living Standard[^2]にて復活�
 
 | iOS | Andoroid  |
 |---|---|
-|  <img src="https://github.com/matsumana07384/memorandum/blob/master/output/2020-12-15_Qitta_AdventCalendar/img/iOS_search.png?raw=true" width="375" height="auto">  |   <img src="https://github.com/matsumana07384/memorandum/blob/master/output/2020-12-15_Qitta_AdventCalendar/img/Android_search.jpg?raw=true" width="375" height="auto">  |
+|  <img src="https://github.com/matsumana07384/resume/blob/master/output/2020-12-15_Qitta_AdventCalendar/img/iOS_search.png?raw=true" width="375" height="auto">  |   <img src="https://github.com/matsumana07384/resume/blob/master/output/2020-12-15_Qitta_AdventCalendar/img/Android_search.jpg?raw=true" width="375" height="auto">  |
 
 
 # おわりに
